@@ -1,0 +1,15 @@
+# isparta-instrumenter-loader-demo
+
+Demo for this project
+
+## Usage
+
+Install dependencies:
+```
+$ npm install
+```
+Run karma
+```
+$ npm test
+```
+Open __coverage__ dir and see report.

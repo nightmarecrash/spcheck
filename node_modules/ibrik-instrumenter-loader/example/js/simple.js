@@ -1,0 +1,3 @@
+var simple = (x) => x * x
+
+export default simple

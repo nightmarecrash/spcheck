@@ -1,0 +1,7 @@
+var component = require('js/my-component.js');
+
+describe('react component', function () {
+    it('should exist', function () {
+        component.should.exist;
+    });
+});
